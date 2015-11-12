@@ -1,6 +1,6 @@
 # Subway stair closures
 
-Freedom of Information Law (FOIL) request by WNYC for all stair closures at the NYC subway system.  Received around October 26 of 2015.
+Freedom of Information Law (FOIL) request by WNYC for all stair closures in the NYC subway system.  Received around October 26 of 2015.
 
 This repository includes:
 
